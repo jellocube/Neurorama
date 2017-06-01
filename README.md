@@ -10,7 +10,7 @@ The software is written in the UE4 Blueprints visual scripting language for ease
 
 This software requires the free [Unreal Engine 4](http://unrealengine.com/) to use, and is still in its prototyping phase. In order to get it to run properly with appropriate interaction modes, please make sure you select the appropriate player pawns for each in-game level. Better instructions forthcoming.
 
-## Guide to application content file structure: ##
+## Working index of application file structures: ##
 
     /Content
        /Neurorama
