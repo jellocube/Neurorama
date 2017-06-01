@@ -2,6 +2,8 @@ Neurorama is an open source, Creative Commons-licensed software to provide asset
 
 The software is written in the UE4 Blueprints visual scripting language for ease of accessibility. The paradigm of game objects and functions is explained below.
 
+This game utilizes Creative Commons assets from the Brain for Blender project (https://brainder.org/research/brain-for-blender/) as well as some public domain models from NASA (https://nasa3d.arc.nasa.gov/models).
+
 GUIDE TO GAME FILE STRUCTURE:
 
 /Content
