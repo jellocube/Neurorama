@@ -8,7 +8,10 @@ The software is written in the UE4 Blueprints visual scripting language for ease
 
 ## Instructions to run ##
 
-This software requires the free [Unreal Engine 4](http://unrealengine.com/) to use, and is still in its prototyping phase. In order to get it to run properly with appropriate interaction modes, please make sure you select the appropriate player pawns for each in-game level. Better instructions forthcoming.
+This software requires the free [Unreal Engine 4](http://unrealengine.com/) to use. Due to it being in the prototyping phase, these instructions are best supplemented by your exploration of the source code:
+- Right-click or use the right Oculus Touch A button to select on-screen elements.
+- Use the space bar to cycle between model display models.
+- Use 1 and 2 to switch between pawns in each level. Most of the pawns are currently in the process of being reworked and may be missing functionality, especially in the Flyaround level.
 
 ## Working index of application file structures ##
 
