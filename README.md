@@ -1,4 +1,4 @@
-# Neurorama Pre-Alpha Release 12 #
+# Neurorama Pre-Alpha 0.121 #
 
 Neurorama is an open source, Creative Commons-licensed software to provide assets and binaries to aid in neuroanatomy and neuroliteracy education. Neurorama aims to make the job of learning neuroanatomy geometry and region functions more comprehendable and memorable through intuitive interactive models the student can explore at their own pace. Neurorama currently runs on desktop PCs, is built on Unreal Engine 4, and features VR compatibility (Oculus Rift and HTC Vive). You may [view a recent demo here](https://www.youtube.com/watch?v=dr8vEybB8vs).
 
