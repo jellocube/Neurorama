@@ -1,4 +1,4 @@
-# Neurorama Pre-Alpha 0.121 #
+# Neurorama Pre-Alpha #
 
 Neurorama is an open source, Creative Commons-licensed software to provide assets and binaries to aid in neuroanatomy and neuroliteracy education. Neurorama aims to make the job of learning neuroanatomy geometry and region functions more comprehendable and memorable through intuitive interactive models the student can explore at their own pace. Neurorama currently runs on desktop PCs, is built on Unreal Engine 4, and features VR compatibility (Oculus Rift and HTC Vive). You may [view a recent demo here](https://www.youtube.com/watch?v=dr8vEybB8vs).
 
@@ -29,7 +29,7 @@ This software requires the free [Unreal Engine 4](http://unrealengine.com/) to u
           /Geometry/
           ...Contains all meshes and non-interactive scenic actors.
           /Import/
-          ...Default UE4 import directory
+          ...UE4 import directory
           /InfoActors/
              BP_ia_* (InfoActors)
              ...infoActors are actors in the scene that contain a mesh and some information about what the mesh represents (used for parts of the brain and their descriptions).
@@ -43,7 +43,7 @@ This software requires the free [Unreal Engine 4](http://unrealengine.com/) to u
              ExhibitMap
              ...A map where you may explore the model brain on foot.
           /MaterialLibrary/
-          ...Materials, textures, and Allegorithmic Substance assets used in the project.
+          ...Materials, textures
           /UX/
           ...Assets related to UX and UI.
 
