@@ -2,6 +2,8 @@
 
 Neurorama is an open source, Creative Commons-licensed software to provide assets and binaries to aid in neuroanatomy and neuroliteracy education. Neurorama aims to make the job of learning neuroanatomy geometry and region functions more comprehendable and memorable through intuitive interactive models the student can explore at their own pace. Neurorama currently runs on desktop PCs, is built on Unreal Engine 4, and features VR compatibility (Oculus Rift and HTC Vive). You may [view a recent demo here](https://www.youtube.com/watch?v=dr8vEybB8vs).
 
+[Compiled binaries for Windows 10 are now available at the itch.io page!](https://jellocube.itch.io/neurorama)
+
 The software is written in the UE4 Blueprints visual scripting language for ease of accessibility. The paradigm of game objects and functions is explained below. This project is licensed as Creative Commons 3.0 Attribution-Sharealike, and utilizes Creative Commons assets from the Brain for Blender project (https://brainder.org/research/brain-for-blender/) as well as public domain models from NASA (https://nasa3d.arc.nasa.gov/models).
 
 ![Screenshot of desktop mode](/Screenshot.PNG)
