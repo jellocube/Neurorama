@@ -17,36 +17,78 @@ This software requires the free [Unreal Engine 4](http://unrealengine.com/) to u
 
 ## Working index of application file structures ##
 
-    /Content
-       /Neurorama
-          /Blueprints/
-          ...Nothing currently.
-          /Core/
-             BP_GameInstance
-             ...Contains reference array of what InfoActors are in the scene; InfoActors add themselves to this array when play begins.
-             BP_PlayerController
-             ...complex controller functions for all player pawns and game modes are stored here. manages "Diplay Modes," or the hiding of different parts of the brain upon player input. hidden infoActors are stored in an array here.
-          /FX/
-          ...Contains assets related to audio and visual effects.
-          /Geometry/
-          ...Contains all meshes and non-interactive scenic actors.
-          /Import/
-          ...UE4 import directory
-          /InfoActors/
-             BP_ia_* (InfoActors)
-             ...infoActors are actors in the scene that contain a mesh and some information about what the mesh represents (used for parts of the brain and their descriptions).
-             BP_Diorama_*
-             ...Dioramas are collections of infoActors, and contain methods for retrieving and displaying infoActor information, passing it to the UI of the player's currently-possessed pawn.
-          /Maps/
-             TitleMenu
-             ...The menu screen map.
-             FlightMap
-             ...A map where you fly around a giant model of the brain.
-             ExhibitMap
-             ...A map where you may explore the model brain on foot.
-          /MaterialLibrary/
-          ...Materials, textures
-          /UX/
-          ...Assets related to UX and UI.
+	/Content/
+	   /Neurorama/
+		  /Core/
+			/Menus/
+			/Player/
+				/AnaglyphCamera/
+				...custom dual cameras in the desktop player pawn project to L_Render and R_Render, which are combined in M_AnaglyphMat, which is then mapped onto the player pawn default camera as a postprocessing effect
+					L_Render
+					R_Render
+					M_AnaglyphMat
+				Pointers/
+				...contains content related to VR hand controls/pointer controls
+				TestingPawns/
+				TestingVR/
+			BP_Desktop_Pawn
+			...pawn which inhabits walkable maps
+			BP_Diorama_Master
+			...Dioramas are collections of infoActors, and contain methods for retrieving and displaying infoActor information, passing it to the UI of the player's currently-possessed pawn.
+			BP_GameInstance
+			...Contains reference array of what InfoActors are in the scene; InfoActors add themselves to this array when play begins.
+			BP_ia_Master
+			...infoActors (abbreviated "ia") are actors in the scene that contain a mesh and some information about what the mesh represents (used for parts of the brain and their descriptions).
+			BP_PlayerController
+			...complex controller functions for all player pawns and game modes are stored here. manages "Display Modes," or the hiding of different parts of the brain upon player input. hidden infoActors are stored in an array here.
+			BP_GameMode
+			BP_GameState
+			BP_infoInterfaces
+			DT_iaData
+			...datatable for all of the infoActors, containing all descriptive information
+			S_iaStructure
+			...data structure for the infoActor datatable
+				 
+		  /Geometry/
+		  ...Contains all meshes and non-interactive scenic actors, which are not listed here in full, but whose categories are given
+			/Brainstem/
+			/Cortex/
+			/Hindbrain/
+			/Limbic/
+			/Midbrain/
+			/Visual/
+			
+		  /Import/
+		  ...UE4 import directory, stray things that need to be sorted
+		  
+		  /InfoActors/
+			...Contains all InfoActors, which are not listed here in full, but whose categories are given
+			/Brainstem/
+			/Cortex/
+			/Hindbrain/
+			/Limbic/
+			/Midbrain/
+			/Visual/
+			BP_Diorama_Brain
+			
+		  /Maps/
+			Title
+			...The menu screen map
+			Flyaround
+			...A map where you fly around a giant model of the brain
+			Exhibit
+			...A map where you may explore the model brain on foot
+			 
+		  /MaterialLibrary/
+			...Materials, textures
+			/TextureMaps/
+			/Testing/
+			/Masks/
+		  
+		  /SFX/
+			...Sound effects and audio
+		  
+		  /UX/
+		  ...Assets related to UX and UI.
 
 > Written with [StackEdit](https://stackedit.io/).
