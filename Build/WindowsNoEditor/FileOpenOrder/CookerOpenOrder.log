@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/BP_GameState.uasset" 0
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Menus/BP_MainMenuHUD.uasset" 1
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/BP_GameInstance.uasset" 2
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 3
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/BPI_infoInterfaces.uasset" 4
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/S_iaStructure.uasset" 5
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/DT_iaData.uasset" 6
-"../../../Engine/Content/EditorMaterials/CASC_ModuleEnab_2.uasset" 7
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_None.uasset" 8
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearLight.uasset" 9
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_iaAero_Primary.uasset" 10
-=======
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/BP_GameState.uasset" 0
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/BP_State.uasset" 0
 "C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Menus/BP_MainMenuHUD.uasset" 1
 "C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/BP_GameInstance.uasset" 2
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 3
@@ -22,29 +9,27 @@
 "../../../Engine/Content/EditorMaterials/Cascade/CASC_None.uasset" 8
 "../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearLight.uasset" 9
 "C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaAero_Primary.uasset" 10
->>>>>>> 5d9779f9db7e6af0924c677ecb4e84fe2eb80fd1
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 11
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 12
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 13
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 14
-<<<<<<< HEAD
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/SM_Aphrodite.uasset" 15
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/BP_infoActor_Master.uasset" 16
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/SFX/A_Select01.uasset" 17
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/SFX/A_SelectNot01.uasset" 18
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/bp_Diorama_Master.uasset" 19
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Player/BP_PlayerController.uasset" 20
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Player/BPI_PawnHandler.uasset" 21
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/L_Render.uasset" 22
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/R_Render.uasset" 23
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/M_AnaglyphMat.uasset" 24
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Menus/BP_SaveOptions.uasset" 25
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/UX/Neurorama_Title_1a_Bungee_Font.uasset" 26
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Menus/W_MainMenu.uasset" 27
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Player/W_Desktop_WalkHUD.uasset" 28
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01_2x_darker_softer_noisy_flatcurve.uasset" 29
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/Player/BP_Desktop_Pawn.uasset" 30
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Core/BP_GameMode.uasset" 31
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/SM_Aphrodite.uasset" 15
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/BP_infoActor_Master.uasset" 16
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/SFX/A_Select01.uasset" 17
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/SFX/A_SelectNot01.uasset" 18
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/bp_Diorama_Master.uasset" 19
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/BP_PlayerController.uasset" 20
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/BPI_PawnHandler.uasset" 21
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/L_Render.uasset" 22
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/R_Render.uasset" 23
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/M_AnaglyphMat.uasset" 24
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Menus/BP_SaveOptions.uasset" 25
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/UX/Neurorama_Title_1a_Bungee_Font.uasset" 26
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Menus/W_MainMenu.uasset" 27
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/W_Desktop_WalkHUD.uasset" 28
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01_2x_darker_softer_noisy_flatcurve.uasset" 29
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/BP_Desktop_Pawn.uasset" 30
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/BP_GameMode.uasset" 31
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 32
 "../../../Engine/Content/BasicShapes/Cone.uasset" 33
 "../../../Engine/Content/BasicShapes/Cube.uasset" 34
@@ -78,886 +63,396 @@
 "../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 62
 "../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 63
 "../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 64
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 65
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 66
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 67
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 68
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 69
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 70
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 71
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 72
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 73
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 74
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 75
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 76
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 77
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 78
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 79
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 80
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 81
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 82
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 83
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 84
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 85
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 86
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 87
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 88
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 89
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 90
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 91
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 92
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 93
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 94
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 95
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 96
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 97
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 98
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 99
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 100
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 101
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 102
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 103
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 104
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 105
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 106
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 107
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 108
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 109
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 110
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 111
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 112
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 113
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 114
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 115
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 116
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 117
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 118
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 119
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 120
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 121
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 122
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 123
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 124
-"../../../Engine/Content/EngineResources/Black.uasset" 125
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 126
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 127
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 128
-"../../../Engine/Content/EngineSounds/Master.uasset" 129
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 130
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 131
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 132
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 133
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 134
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 135
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 136
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 137
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 138
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 139
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 140
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 141
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 142
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 143
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 144
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 145
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 146
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 147
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 148
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 149
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 150
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 151
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 152
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 153
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 154
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 155
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 156
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 157
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 158
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 159
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 160
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 161
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 162
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 163
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 164
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 165
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 166
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 167
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 168
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 169
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 170
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 171
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 172
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 173
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 174
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 175
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 176
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 177
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 178
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 179
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 180
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 181
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 182
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 183
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 184
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 185
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 186
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 187
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 188
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 189
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 190
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 191
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 192
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 193
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 194
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 195
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 196
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 197
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 198
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 199
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 200
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 201
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 202
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 203
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 204
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 205
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 206
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 207
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 208
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 209
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 210
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 211
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 212
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 213
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 214
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 215
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 216
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 217
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 218
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 219
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 220
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 221
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 222
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 223
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 224
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 225
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 226
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 227
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 228
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 229
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 230
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 231
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 232
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 233
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 234
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 235
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 236
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 237
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 238
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 239
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 240
-"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 241
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 242
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 243
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 244
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 245
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 246
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 247
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 248
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 249
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 250
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 251
-"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 252
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 253
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 254
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 255
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 256
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 257
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 258
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 259
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 260
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 261
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 262
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 263
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 264
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 265
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/BP_SkySphere.uasset" 266
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 267
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset" 268
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 269
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Primary.uasset" 270
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Import/Cerebellum_New.uasset" 271
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Cerebellum.uasset" 272
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Medulla01.uasset" 273
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Medulla.uasset" 274
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Olive01.uasset" 275
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Olive.uasset" 276
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Pons01.uasset" 277
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Pons.uasset" 278
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Pyramid01.uasset" 279
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Pyramid.uasset" 280
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_CaudalMiddleFrontal.uasset" 281
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidCauD_L.uasset" 282
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_CaudalMiddleFrontal.uasset" 283
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidCaud_R.uasset" 284
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_RostralMiddleFrontal.uasset" 285
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidrost_L.uasset" 286
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_RostralMiddleFrontal.uasset" 287
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidrost_R.uasset" 288
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_LateralOrbitoFrontal.uasset" 289
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbLat_L.uasset" 290
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_LateralOrbitoFrontal.uasset" 291
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbLat_R.uasset" 292
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_MedialOrbitoFrontal.uasset" 293
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbMed_L.uasset" 294
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_MedialOrbitoFrontal.uasset" 295
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbMed_R.uasset" 296
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_Paracentral.uasset" 297
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparacent_L.uasset" 298
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_Paracentral.uasset" 299
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparacent_R.uasset" 300
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsOperCularis.uasset" 301
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOper_L.uasset" 302
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsOperCularis.uasset" 303
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOper_R.uasset" 304
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsOrbitalis.uasset" 305
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOrbit_L.uasset" 306
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsOrbitalis.uasset" 307
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOrbit_R.uasset" 308
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsTriangularis.uasset" 309
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsTriang_L.uasset" 310
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsTriangularis.uasset" 311
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsTriang_R.uasset" 312
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_Precentral.uasset" 313
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLprecent_L.uasset" 314
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_Precentral.uasset" 315
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLprecent_R.uasset" 316
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_SuperiorFrontal.uasset" 317
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLsuperior_L.uasset" 318
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_SuperiorFrontal.uasset" 319
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLsuperior_R.uasset" 320
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_Cuneus.uasset" 321
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLcuneus_L.uasset" 322
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_Cuneus.uasset" 323
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLcuneus_R.uasset" 324
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_LateralOccipital.uasset" 325
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlateral_L.uasset" 326
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_LateralOccipital.uasset" 327
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlateral_R.uasset" 328
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_Lingual.uasset" 329
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlingual_L.uasset" 330
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlingual_R.uasset" 331
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_PericalCarine.uasset" 332
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLperical_L.uasset" 333
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_PericalCarine.uasset" 334
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLperical_R.uasset" 335
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_InferiorParietal.uasset" 336
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLinferior_L.uasset" 337
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_InferiorParietal.uasset" 338
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLinferior_R.uasset" 339
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_Postcentral.uasset" 340
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLpostcent_L.uasset" 341
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_Postcentral.uasset" 342
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLpostcent_R.uasset" 343
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_Precuneus.uasset" 344
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLprecuneus_L.uasset" 345
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_Precuneus.uasset" 346
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLprecuneus_R.uasset" 347
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_SuperiorParietal.uasset" 348
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsuperior_L.uasset" 349
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_SuperiorParietal.uasset" 350
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsuperior_R.uasset" 351
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_SupraMarginal.uasset" 352
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsupraMarg_L.uasset" 353
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_SupraMarginal.uasset" 354
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsupraMarg_R.uasset" 355
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Entorhinal.uasset" 356
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLentorhinal_L.uasset" 357
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Entorhinal.uasset" 358
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLentorhinal_R.uasset" 359
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Fusiform.uasset" 360
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLfusiform_L.uasset" 361
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Fusiform.uasset" 362
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLfusiform_R.uasset" 363
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_InferiorTemporal.uasset" 364
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLinfTemp_L.uasset" 365
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_InferiorTemporal.uasset" 366
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLinfTemp_R.uasset" 367
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_MiddleTemporal.uasset" 368
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLmidTemp_L.uasset" 369
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_MiddleTemporal.uasset" 370
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLmidTemp_R.uasset" 371
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Parahippocampal.uasset" 372
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLparahippo_L.uasset" 373
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Parahippocampal.uasset" 374
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLparahippo_R.uasset" 375
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_SuperiorTemporal.uasset" 376
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLsupTemp_L.uasset" 377
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_SuperiorTemporal.uasset" 378
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLsupTemp_R.uasset" 379
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_TransverseTemporal.uasset" 380
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_L.uasset" 381
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_TransverseTemporal.uasset" 382
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_R.uasset" 383
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_R1.uasset" 384
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Amygdala.uasset" 385
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Amygdala.uasset" 386
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/BG_Caudate01.uasset" 387
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_CaudNuc.uasset" 388
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/BG_Caudate_CellularBridges01.uasset" 389
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_CaudNucBridges.uasset" 390
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Fornix01.uasset" 391
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Fornix.uasset" 392
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Globus01b.uasset" 393
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Globus.uasset" 394
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Hippocampus01.uasset" 395
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Hippocampus.uasset" 396
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Hypothalamus01.uasset" 397
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Hypothalamus.uasset" 398
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Pituitary01.uasset" 399
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Pituitary.uasset" 400
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Putamen01.uasset" 401
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Putamen.uasset" 402
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Limbic/Thalamus01.uasset" 403
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Thalamus.uasset" 404
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_InfColliculus01.uasset" 405
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_InfColliculus.uasset" 406
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_Peduncle01.uasset" 407
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_Peduncle.uasset" 408
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_Pulvinar01.uasset" 409
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_Pulvinar.uasset" 410
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_SupColliculus01.uasset" 411
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_SupColliculus.uasset" 412
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 413
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/Masks/noiseMask01.uasset" 414
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Secondary.uasset" 415
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_iaSpecial_Lens.uasset" 416
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Colored.uasset" 417
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Black.uasset" 418
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Eggshell.uasset" 419
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Visual/Eyeballs.uasset" 420
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_Eyeballs.uasset" 421
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Visual/VisPaths.uasset" 422
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths.uasset" 423
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths1.uasset" 424
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths2.uasset" 425
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/InfoActors/bp_Diorama_Brain.uasset" 426
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Maps/Exhibit_BuiltData.uasset" 427
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_basecolor.uasset" 428
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_metallic.uasset" 429
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_normal.uasset" 430
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_roughness.uasset" 431
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_MarbleFloor.uasset" 432
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_basecolor.uasset" 433
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_metallic.uasset" 434
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_normal.uasset" 435
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_roughness.uasset" 436
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_StoneBlocks.uasset" 437
-"../../../Engine/Content/MapTemplates/daylight.uasset" 438
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/MaterialLibrary/M_EscapeSuit.uasset" 439
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/S_EscapeSuit.uasset" 440
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/SM_Pedestal.uasset" 441
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/SM_Pillar.uasset" 442
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Maps/Exhibit.umap" 443
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Maps/Flyaround_BuiltData.uasset" 444
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 445
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Maps/Flyaround.umap" 446
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Geometry/Cortex/S_WholeNoggin.uasset" 447
-"C:/Users/me/Documents/Unreal Projects/Neurorama/Content/Neurorama/Maps/Title.umap" 448
-"../../../Engine/Content/Maps/Entry.umap" 449
-=======
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/SM_Aphrodite.uasset" 15
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/BP_infoActor_Master.uasset" 16
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/SFX/A_Select01.uasset" 17
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/SFX/A_SelectNot01.uasset" 18
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/bp_Diorama_Master.uasset" 19
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/BP_PlayerController.uasset" 20
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/BPI_PawnHandler.uasset" 21
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/L_Render.uasset" 22
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/R_Render.uasset" 23
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/AnaglyphCamera/M_AnaglyphMat.uasset" 24
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Menus/BP_SaveOptions.uasset" 25
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/UX/Neurorama_Title_1a_Bungee_Font.uasset" 26
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Menus/W_MainMenu.uasset" 27
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/W_Desktop_WalkHUD.uasset" 28
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01_2x_darker_softer_noisy_flatcurve.uasset" 29
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/BP_Desktop_Pawn.uasset" 30
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/BP_GameMode.uasset" 31
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Menus/BP_MainMenu_Actor.uasset" 32
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 33
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 34
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/Pointers/M_OculusControllerMaterial.uasset" 35
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 36
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 37
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/Pointers/OculusControllerMesh.uasset" 38
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/Pointers/OculusControllerM_Material_Inst.uasset" 39
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 40
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 41
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_TextMaterial_Emissive.uasset" 42
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 43
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 44
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 45
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 46
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/UX/IMG_Crosshair.uasset" 47
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/UX/SPR_CrosshairWhite.uasset" 48
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/TestingVR/BP_VR_Flypawn.uasset" 49
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_EscapeSuit.uasset" 50
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 51
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/Pointers/beamTexture.uasset" 52
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/Pointers/M_Laserbeam.uasset" 53
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/Pointers/P_Laserpoint.uasset" 54
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/S_EscapeSuit.uasset" 55
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/TestingVR/BP_Flypawn_VR.uasset" 56
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/TestingVR/BP_VR_Menupawn.uasset" 57
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Core/Player/TestingVR/BP_VR_Walkpawn.uasset" 58
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_basecolor.uasset" 59
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_metallic.uasset" 60
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_normal.uasset" 61
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_roughness.uasset" 62
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_MarbleFloor.uasset" 63
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/SM_Platform_01.uasset" 64
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Cingulate_CaudalAnteriorCingulate.uasset" 65
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Cingulate_IsthmusCingulate.uasset" 66
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Cingulate_PosteriorCingulate.uasset" 67
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Cingulate_RostralAnteriorCingulate.uasset" 68
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Cingulate_CaudalAnteriorCingulate.uasset" 69
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Cingulate_IsthmusCingulate.uasset" 70
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Cingulate_PosteriorCingulate.uasset" 71
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Cingulate_RostralAnteriorCingulate.uasset" 72
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_Lingual.uasset" 73
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Hindbrain/brainstem3_cerebell.uasset" 74
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Hindbrain/Cerebellum01.uasset" 75
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Import/Assets/Textures/T_Zen_PondPlants_D.uasset" 76
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Import/Assets/Textures/T_Zen_PondPlants_N.uasset" 77
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Import/Assets/Materials/M_Lotus_Flower.uasset" 78
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Import/Assets/Meshes/SM_Zen_Lotus_Flower.uasset" 79
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset" 80
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 81
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaAero_Primary_Bak.uasset" 82
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaAero_ReferenceTesting.uasset" 83
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 84
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaAero_Secondary.uasset" 85
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 86
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 87
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_Vaporgrid.uasset" 88
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01.uasset" 89
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01_2x.uasset" 90
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01_2x_darker.uasset" 91
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01_2x_darker_softer.uasset" 92
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/cellmask01_2x_darker_softer_noisy.uasset" 93
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/neuronMask01.uasset" 94
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/neuronMask02.uasset" 95
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/neuronMask03.uasset" 96
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorDodge.uasset" 97
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 98
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Testing/M_AnaglyphMat_TrippyBug.uasset" 99
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_PinLight.uasset" 100
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Testing/M_iaAero_Deprecated.uasset" 101
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Testing/M_iaAero_DiscoBug.uasset" 102
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_height.uasset" 103
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_output.uasset" 104
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/UX/TestEnum01.uasset" 105
-"../../../Engine/Content/BasicShapes/Cone.uasset" 106
-"../../../Engine/Content/BasicShapes/Cube.uasset" 107
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 108
-"../../../Engine/Content/BasicShapes/Plane.uasset" 109
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 110
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 111
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 112
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 113
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 114
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 115
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 116
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 117
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 118
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 119
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 120
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 121
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 122
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 123
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 124
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 125
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 126
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 127
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 128
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 129
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 130
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 131
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 132
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 133
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 134
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 135
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 136
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 137
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 138
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 139
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 140
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 141
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 142
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 143
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 144
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 145
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 146
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 147
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 148
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 149
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 150
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 151
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 152
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 153
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 154
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 155
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 156
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 157
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 158
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 159
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 160
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 161
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 162
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 163
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 164
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 165
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 166
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 167
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 168
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 169
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 170
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 171
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 172
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 173
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 174
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 175
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 176
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 177
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 178
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 179
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 180
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 181
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 182
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 183
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 184
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 185
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 186
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 187
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 188
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 189
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 190
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 191
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 192
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 193
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 194
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 195
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 196
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 197
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 198
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 199
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 200
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 201
-"../../../Engine/Content/EngineResources/Black.uasset" 202
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 203
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 204
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 205
-"../../../Engine/Content/EngineSounds/Master.uasset" 206
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 207
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 208
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 209
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 210
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 211
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 212
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 213
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 214
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 215
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 216
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 217
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 218
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 219
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 220
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 221
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 222
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 223
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 224
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 225
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 226
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 227
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 228
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 229
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 230
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 231
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 232
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 233
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 234
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 235
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 236
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 237
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 238
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 239
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 240
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 241
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 242
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 243
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 244
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 245
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 246
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 247
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 248
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 249
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 250
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 251
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 252
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 253
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 254
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 255
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 256
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 257
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 258
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 259
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 260
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 261
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 262
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 263
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 264
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 265
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 266
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 267
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 268
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 269
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 270
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 271
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 272
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 273
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 274
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 275
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 276
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 277
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 278
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 279
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 280
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 281
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 282
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 283
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 284
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 285
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 286
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 287
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 288
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 289
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 290
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 291
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 292
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 293
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 294
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 295
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 296
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 297
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 298
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 299
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 300
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 301
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 302
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 303
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 304
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 305
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 306
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 307
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 308
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 309
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 310
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 311
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 312
-"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 313
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 314
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 315
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 316
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 317
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 318
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 319
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 320
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 322
-"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 323
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 324
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 325
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 326
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 327
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 328
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 329
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 330
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 331
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 332
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 333
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 334
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 335
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 336
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/BP_SkySphere.uasset" 337
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Primary.uasset" 338
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Import/Cerebellum_New.uasset" 339
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Cerebellum.uasset" 340
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Medulla01.uasset" 341
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Medulla.uasset" 342
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Olive01.uasset" 343
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Olive.uasset" 344
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Pons01.uasset" 345
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Pons.uasset" 346
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Pyramid01.uasset" 347
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Pyramid.uasset" 348
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_CaudalMiddleFrontal.uasset" 349
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidCauD_L.uasset" 350
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_CaudalMiddleFrontal.uasset" 351
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidCaud_R.uasset" 352
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_RostralMiddleFrontal.uasset" 353
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidrost_L.uasset" 354
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_RostralMiddleFrontal.uasset" 355
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidrost_R.uasset" 356
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_LateralOrbitoFrontal.uasset" 357
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbLat_L.uasset" 358
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_LateralOrbitoFrontal.uasset" 359
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbLat_R.uasset" 360
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_MedialOrbitoFrontal.uasset" 361
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbMed_L.uasset" 362
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_MedialOrbitoFrontal.uasset" 363
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbMed_R.uasset" 364
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_Paracentral.uasset" 365
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparacent_L.uasset" 366
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_Paracentral.uasset" 367
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparacent_R.uasset" 368
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsOperCularis.uasset" 369
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOper_L.uasset" 370
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsOperCularis.uasset" 371
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOper_R.uasset" 372
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsOrbitalis.uasset" 373
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOrbit_L.uasset" 374
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsOrbitalis.uasset" 375
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOrbit_R.uasset" 376
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsTriangularis.uasset" 377
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsTriang_L.uasset" 378
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsTriangularis.uasset" 379
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsTriang_R.uasset" 380
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_Precentral.uasset" 381
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLprecent_L.uasset" 382
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_Precentral.uasset" 383
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLprecent_R.uasset" 384
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_SuperiorFrontal.uasset" 385
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLsuperior_L.uasset" 386
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_SuperiorFrontal.uasset" 387
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLsuperior_R.uasset" 388
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_Cuneus.uasset" 389
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLcuneus_L.uasset" 390
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_Cuneus.uasset" 391
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLcuneus_R.uasset" 392
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_LateralOccipital.uasset" 393
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlateral_L.uasset" 394
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_LateralOccipital.uasset" 395
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlateral_R.uasset" 396
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_Lingual.uasset" 397
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlingual_L.uasset" 398
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlingual_R.uasset" 399
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_PericalCarine.uasset" 400
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLperical_L.uasset" 401
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_PericalCarine.uasset" 402
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLperical_R.uasset" 403
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_InferiorParietal.uasset" 404
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLinferior_L.uasset" 405
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_InferiorParietal.uasset" 406
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLinferior_R.uasset" 407
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_Postcentral.uasset" 408
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLpostcent_L.uasset" 409
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_Postcentral.uasset" 410
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLpostcent_R.uasset" 411
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_Precuneus.uasset" 412
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLprecuneus_L.uasset" 413
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_Precuneus.uasset" 414
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLprecuneus_R.uasset" 415
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_SuperiorParietal.uasset" 416
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsuperior_L.uasset" 417
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_SuperiorParietal.uasset" 418
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsuperior_R.uasset" 419
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_SupraMarginal.uasset" 420
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsupraMarg_L.uasset" 421
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_SupraMarginal.uasset" 422
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsupraMarg_R.uasset" 423
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Entorhinal.uasset" 424
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLentorhinal_L.uasset" 425
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Entorhinal.uasset" 426
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLentorhinal_R.uasset" 427
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Fusiform.uasset" 428
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLfusiform_L.uasset" 429
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Fusiform.uasset" 430
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLfusiform_R.uasset" 431
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_InferiorTemporal.uasset" 432
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLinfTemp_L.uasset" 433
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_InferiorTemporal.uasset" 434
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLinfTemp_R.uasset" 435
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_MiddleTemporal.uasset" 436
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLmidTemp_L.uasset" 437
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_MiddleTemporal.uasset" 438
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLmidTemp_R.uasset" 439
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Parahippocampal.uasset" 440
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLparahippo_L.uasset" 441
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Parahippocampal.uasset" 442
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLparahippo_R.uasset" 443
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_SuperiorTemporal.uasset" 444
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLsupTemp_L.uasset" 445
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_SuperiorTemporal.uasset" 446
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLsupTemp_R.uasset" 447
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_TransverseTemporal.uasset" 448
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_L.uasset" 449
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_TransverseTemporal.uasset" 450
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_R.uasset" 451
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_R1.uasset" 452
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Amygdala.uasset" 453
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Amygdala.uasset" 454
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/BG_Caudate01.uasset" 455
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_CaudNuc.uasset" 456
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/BG_Caudate_CellularBridges01.uasset" 457
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_CaudNucBridges.uasset" 458
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Fornix01.uasset" 459
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Fornix.uasset" 460
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Globus01b.uasset" 461
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Globus.uasset" 462
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Hippocampus01.uasset" 463
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Hippocampus.uasset" 464
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Hypothalamus01.uasset" 465
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Hypothalamus.uasset" 466
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Pituitary01.uasset" 467
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Pituitary.uasset" 468
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Putamen01.uasset" 469
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Putamen.uasset" 470
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Thalamus01.uasset" 471
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Thalamus.uasset" 472
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_InfColliculus01.uasset" 473
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_InfColliculus.uasset" 474
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_Peduncle01.uasset" 475
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_Peduncle.uasset" 476
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_Pulvinar01.uasset" 477
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_Pulvinar.uasset" 478
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_SupColliculus01.uasset" 479
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_SupColliculus.uasset" 480
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 481
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/noiseMask01.uasset" 482
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Secondary.uasset" 483
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaSpecial_Lens.uasset" 484
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Colored.uasset" 485
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Black.uasset" 486
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Eggshell.uasset" 487
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Visual/Eyeballs.uasset" 488
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_Eyeballs.uasset" 489
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Visual/VisPaths.uasset" 490
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths.uasset" 491
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths1.uasset" 492
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths2.uasset" 493
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/bp_Diorama_Brain.uasset" 494
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Exhibit_BuiltData.uasset" 495
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_basecolor.uasset" 496
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_metallic.uasset" 497
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_normal.uasset" 498
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_roughness.uasset" 499
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_StoneBlocks.uasset" 500
-"../../../Engine/Content/MapTemplates/daylight.uasset" 501
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/SM_Pedestal.uasset" 502
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/SM_Pillar.uasset" 503
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Exhibit.umap" 504
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Flyaround_BuiltData.uasset" 505
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 506
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Flyaround.umap" 507
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/S_WholeNoggin.uasset" 508
-"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Title.umap" 509
-"../../../Engine/Content/Maps/Entry.umap" 510
->>>>>>> 5d9779f9db7e6af0924c677ecb4e84fe2eb80fd1
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 65
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 66
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 67
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 68
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 69
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 70
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 71
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 72
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 73
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 74
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 75
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 76
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 77
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 78
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 79
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 80
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 81
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 82
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 83
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 84
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 85
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 86
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 87
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 88
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 89
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 90
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 91
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 92
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 93
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 94
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 95
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 96
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 97
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 98
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 99
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 100
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 101
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 102
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 103
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 104
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 106
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 107
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 108
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 109
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 110
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 111
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 112
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 113
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 114
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 115
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 116
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 117
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 118
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 119
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 120
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 121
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 122
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 123
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 124
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 125
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 126
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 127
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 128
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 129
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 130
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 131
+"../../../Engine/Content/EngineResources/Black.uasset" 132
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 133
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 134
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 135
+"../../../Engine/Content/EngineSounds/Master.uasset" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 138
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 139
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 140
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 141
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 142
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 143
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 144
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 145
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 146
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 147
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 148
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 149
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 150
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 151
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 152
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 153
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 154
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 155
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 156
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 157
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 158
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 159
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 160
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 161
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 162
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 163
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 164
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 165
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 166
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 167
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 168
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 169
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 170
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 171
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 172
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 173
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 174
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 175
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 176
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 177
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 179
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 180
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 181
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 182
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 183
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 184
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 185
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 186
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 187
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 188
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 189
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 190
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 191
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 192
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 193
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 194
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 195
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 196
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 197
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 198
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 199
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 200
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 201
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 202
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 203
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 204
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 205
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 206
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 207
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 208
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 209
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 210
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 211
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 212
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 213
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 214
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 215
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 216
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 217
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 218
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 219
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 220
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 221
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 222
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 223
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 224
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 225
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 226
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 227
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 228
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 229
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 230
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 231
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 232
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 233
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 234
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 235
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 236
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 237
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 238
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 239
+"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 240
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 241
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 242
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 243
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 244
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 245
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 246
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 247
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 248
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 249
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 250
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 251
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 252
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 253
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 254
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 255
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 256
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 257
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 259
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 260
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 261
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 262
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 263
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 264
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 265
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 266
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 267
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 268
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 269
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 270
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 271
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 272
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 273
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/BP_SkySphere.uasset" 274
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 275
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 277
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Primary.uasset" 278
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Import/Cerebellum_New.uasset" 279
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Cerebellum.uasset" 280
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Medulla01.uasset" 281
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Medulla.uasset" 282
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Olive01.uasset" 283
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Olive.uasset" 284
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Pons01.uasset" 285
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Pons.uasset" 286
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Brainstem/Brainstem_Pyramid01.uasset" 287
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Brainstem/BP_ia_Pyramid.uasset" 288
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_CaudalMiddleFrontal.uasset" 289
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidCauD_L.uasset" 290
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_CaudalMiddleFrontal.uasset" 291
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidCaud_R.uasset" 292
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_RostralMiddleFrontal.uasset" 293
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidrost_L.uasset" 294
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_RostralMiddleFrontal.uasset" 295
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLmidrost_R.uasset" 296
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_LateralOrbitoFrontal.uasset" 297
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbLat_L.uasset" 298
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_LateralOrbitoFrontal.uasset" 299
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbLat_R.uasset" 300
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_MedialOrbitoFrontal.uasset" 301
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbMed_L.uasset" 302
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_MedialOrbitoFrontal.uasset" 303
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLorbMed_R.uasset" 304
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_Paracentral.uasset" 305
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparacent_L.uasset" 306
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_Paracentral.uasset" 307
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparacent_R.uasset" 308
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsOperCularis.uasset" 309
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOper_L.uasset" 310
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsOperCularis.uasset" 311
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOper_R.uasset" 312
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsOrbitalis.uasset" 313
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOrbit_L.uasset" 314
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsOrbitalis.uasset" 315
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsOrbit_R.uasset" 316
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_ParsTriangularis.uasset" 317
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsTriang_L.uasset" 318
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_ParsTriangularis.uasset" 319
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLparsTriang_R.uasset" 320
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_Precentral.uasset" 321
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLprecent_L.uasset" 322
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_Precentral.uasset" 323
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLprecent_R.uasset" 324
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Frontal_SuperiorFrontal.uasset" 325
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLsuperior_L.uasset" 326
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Frontal_SuperiorFrontal.uasset" 327
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Frontal/BP_ia_FLsuperior_R.uasset" 328
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_Cuneus.uasset" 329
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLcuneus_L.uasset" 330
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_Cuneus.uasset" 331
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLcuneus_R.uasset" 332
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_LateralOccipital.uasset" 333
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlateral_L.uasset" 334
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_LateralOccipital.uasset" 335
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlateral_R.uasset" 336
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_Lingual.uasset" 337
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlingual_L.uasset" 338
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLlingual_R.uasset" 339
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Occipital_PericalCarine.uasset" 340
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLperical_L.uasset" 341
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Occipital_PericalCarine.uasset" 342
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Occipital/BP_ia_OLperical_R.uasset" 343
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_InferiorParietal.uasset" 344
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLinferior_L.uasset" 345
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_InferiorParietal.uasset" 346
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLinferior_R.uasset" 347
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_Postcentral.uasset" 348
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLpostcent_L.uasset" 349
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_Postcentral.uasset" 350
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLpostcent_R.uasset" 351
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_Precuneus.uasset" 352
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLprecuneus_L.uasset" 353
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_Precuneus.uasset" 354
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLprecuneus_R.uasset" 355
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_SuperiorParietal.uasset" 356
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsuperior_L.uasset" 357
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_SuperiorParietal.uasset" 358
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsuperior_R.uasset" 359
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Parietal_SupraMarginal.uasset" 360
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsupraMarg_L.uasset" 361
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Parietal_SupraMarginal.uasset" 362
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Parietal/BP_ia_PLsupraMarg_R.uasset" 363
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Entorhinal.uasset" 364
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLentorhinal_L.uasset" 365
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Entorhinal.uasset" 366
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLentorhinal_R.uasset" 367
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Fusiform.uasset" 368
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLfusiform_L.uasset" 369
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Fusiform.uasset" 370
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLfusiform_R.uasset" 371
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_InferiorTemporal.uasset" 372
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLinfTemp_L.uasset" 373
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_InferiorTemporal.uasset" 374
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLinfTemp_R.uasset" 375
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_MiddleTemporal.uasset" 376
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLmidTemp_L.uasset" 377
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_MiddleTemporal.uasset" 378
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLmidTemp_R.uasset" 379
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_Parahippocampal.uasset" 380
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLparahippo_L.uasset" 381
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_Parahippocampal.uasset" 382
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLparahippo_R.uasset" 383
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_SuperiorTemporal.uasset" 384
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLsupTemp_L.uasset" 385
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_SuperiorTemporal.uasset" 386
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLsupTemp_R.uasset" 387
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/L_Temporal_TransverseTemporal.uasset" 388
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_L.uasset" 389
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/R_Temporal_TransverseTemporal.uasset" 390
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_R.uasset" 391
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Cortex/Temporal/BP_ia_TLtransTemp_R1.uasset" 392
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Amygdala.uasset" 393
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Amygdala.uasset" 394
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/BG_Caudate01.uasset" 395
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_CaudNuc.uasset" 396
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/BG_Caudate_CellularBridges01.uasset" 397
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_CaudNucBridges.uasset" 398
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Fornix01.uasset" 399
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Fornix.uasset" 400
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Globus01b.uasset" 401
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Globus.uasset" 402
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Hippocampus01.uasset" 403
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Hippocampus.uasset" 404
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Hypothalamus01.uasset" 405
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Hypothalamus.uasset" 406
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Pituitary01.uasset" 407
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Pituitary.uasset" 408
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Putamen01.uasset" 409
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Putamen.uasset" 410
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Limbic/Thalamus01.uasset" 411
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Interior/BP_ia_Thalamus.uasset" 412
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_InfColliculus01.uasset" 413
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_InfColliculus.uasset" 414
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_Peduncle01.uasset" 415
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_Peduncle.uasset" 416
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_Pulvinar01.uasset" 417
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_Pulvinar.uasset" 418
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Midbrain/Midbrain_SupColliculus01.uasset" 419
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Midbrain/BP_ia_SupColliculus.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 421
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/Masks/noiseMask01.uasset" 422
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Secondary.uasset" 423
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaSpecial_Lens.uasset" 424
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Colored.uasset" 425
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Black.uasset" 426
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_iaPlastic_Eggshell.uasset" 427
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Visual/Eyeballs.uasset" 428
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_Eyeballs.uasset" 429
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Visual/VisPaths.uasset" 430
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths.uasset" 431
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths1.uasset" 432
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/Visual/BP_ia_VisualPaths2.uasset" 433
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/InfoActors/bp_Diorama_Brain.uasset" 434
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Exhibit_BuiltData.uasset" 435
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_basecolor.uasset" 436
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_metallic.uasset" 437
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_normal.uasset" 438
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Marble01_roughness.uasset" 439
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_MarbleFloor.uasset" 440
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_basecolor.uasset" 441
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_metallic.uasset" 442
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_normal.uasset" 443
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/TextureMaps/Blocks01_roughness.uasset" 444
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_StoneBlocks.uasset" 445
+"../../../Engine/Content/MapTemplates/daylight.uasset" 446
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/MaterialLibrary/M_EscapeSuit.uasset" 447
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/S_EscapeSuit.uasset" 448
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/SM_Pedestal.uasset" 449
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/SM_Pillar.uasset" 450
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Exhibit.umap" 451
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Flyaround_BuiltData.uasset" 452
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 453
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Flyaround.umap" 454
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Geometry/Cortex/S_WholeNoggin.uasset" 455
+"C:/Users/me/Documents/GitHub/Neurorama/Content/Neurorama/Maps/Title.umap" 456
+"../../../Engine/Content/Maps/Entry.umap" 457
